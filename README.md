@@ -1,6 +1,6 @@
 # CAD-Coder
 
-[Paper](https://drive.google.com/file/d/1LUiXkOcaaLDcHqQtwzuVAeM6uAfAWaKA/view?usp=sharing) | Project Page (Coming soon!)
+[Paper](https://drive.google.com/drive/folders/11P3KreL2Ot0QxNlelN4OYLOIb_sujUmA?usp=sharing) | Project Page (Coming soon!)
 
 ## Overview
 **CAD-Coder is the first fine-tuned, open-source vision-langauge foundation model designed specifically for CAD code generation!** 
