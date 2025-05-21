@@ -1,16 +1,18 @@
 # CAD-Coder
 
-[Paper](https://drive.google.com/file/d/1-Gh3QTIWc5GJBDZ-JJ9o7Oyr2LefTnHg/view?usp=sharing) | Project Page (Coming soon!)
+Code is coming soon!
+
+[Paper](https://arxiv.org/abs/2505.14646) | Project Page (Coming soon!)
 
 ## Overview
-**CAD-Coder is the first fine-tuned, open-source vision-langauge foundation model designed specifically for CAD code generation!** 
+**CAD-Coder generates CAD code (CadQuery Python) given an image input! Our model is a fine-tuned, open-source vision-langauge foundation model.** 
 
-On a test-set of CAD images, we demonstrate that CAD-Coder out-performs state-of-the-art closed-source and open-source models both in terms of valid syntax rate of output Python scripts and generated solid accuracy.
+On a test-set of CAD images, we demonstrate that CAD-Coder out-performs state-of-the-art closed-source and open-source code-generating VLMs both in terms of valid syntax rate of output Python scripts and generated solid accuracy.
 
 ![CAD-Coder Results](docs_images/results.png)
 
 ## Paper
-Our paper was accepted to IDETC 2025! Check out our pre-print [here](https://drive.google.com/file/d/1-Gh3QTIWc5GJBDZ-JJ9o7Oyr2LefTnHg/view?usp=sharing).
+Our paper was accepted to IDETC 2025! Check out our pre-print [here](https://arxiv.org/abs/2505.14646).
 
 ## Code
 Coming soon!
